@@ -22,10 +22,9 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2018/01/keeping-your-heart-and-brain-healthy.html"}
-if(x=="2"){xxx="/2017/11/live-long-what-water-is-best.html"}
+if(x=="2"){xxx="/2018/01/detox-body-and-live-longer.html"}
 if(x=="3"){xxx="/2018/01/do-you-know-why-heartbeats-make-noise.html"}
-if(x=="4"){xxx="/2018/01/foods-for-your-teeth.html"}
-if(x=="5"){xxx="/2018/01/sound-kidneys-using-herbs.html"}a_to_ve[i].href="https://sikomos.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/2018/01/foods-for-your-teeth.html"}a_to_ve[i].href="https://sikomos.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
